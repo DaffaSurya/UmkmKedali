@@ -61,7 +61,7 @@ const BILQIS_DATA = {
       category: "tunik",
       badgeColor: "#2E7D32",
       badgeText: "#FE48L",
-      image: "assets/Produkjadi.jpeg",
+      image: "assets/produk_siapkirim.jpeg",
       type: "workshop",
       btnText: ""
     },
